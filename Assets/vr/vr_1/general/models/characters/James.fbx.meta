@@ -1,52 +1,19 @@
 fileFormatVersion: 2
-guid: 7698bd37b14c08a4dbe10590965ad021
+guid: f3fd4646a9bc6e14c9d8f9ec577b3a1f
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      74: -203655887218126122
-    second: mixamo.com
+  internalIDToNameTable: []
   externalObjects:
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Ch06_1001_Diffuse
-    second: {fileID: 2800000, guid: dcc0e9e8deedc7d4481b65c02fa23cc2, type: 3}
+      name: Wolf3D_Avatar_DIFFUSE
+    second: {fileID: 2800000, guid: 32b66f9831b8b17469b3a7987473268f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Ch06_1001_Glossiness
-    second: {fileID: 2800000, guid: b6f90a1d3ebcb20479ce1d048ae51f97, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch06_1001_Normal
-    second: {fileID: 2800000, guid: 1e725d0b151dd8940a3dfef7f074dbaa, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch06_1001_Specular
-    second: {fileID: 2800000, guid: 198b10716f42a9443a34bd3738ec5704, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch06_1002_Diffuse
-    second: {fileID: 2800000, guid: e89fce6477e406b43b7a327de73a7150, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch06_1002_Glossiness
-    second: {fileID: 2800000, guid: 33d8fd37d949126468d4194a385cf0d7, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch06_1002_Normal
-    second: {fileID: 2800000, guid: 291e7dc66be1e69439aa45dfa72aaa40, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch06_1002_Specular
-    second: {fileID: 2800000, guid: ec74f6371adc8c84c93955cdfe27fd60, type: 3}
+      name: Wolf3D_Avatar_NORMAL
+    second: {fileID: 2800000, guid: 2b5813f03a9df1d419ab802f80f7c622, type: 3}
   materials:
     materialImportMode: 1
     materialName: 0

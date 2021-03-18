@@ -1,32 +1,19 @@
 fileFormatVersion: 2
-guid: df14c8a743c0cd9408903ee797de418d
+guid: da6742f6260b7e8478c862d98efcc00c
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      74: -203655887218126122
-    second: mixamo.com
+  internalIDToNameTable: []
   externalObjects:
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Ch01_1001_Diffuse
-    second: {fileID: 2800000, guid: b59c43a169577d34393b9118725cbd29, type: 3}
+      name: Wolf3D_Avatar_DIFFUSE
+    second: {fileID: 2800000, guid: 32ab5ea9335a6644ca2cbb5289befec0, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Ch01_1001_Glossiness
-    second: {fileID: 2800000, guid: 80bf6a454fba87643929f0517459b03a, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch01_1001_Normal
-    second: {fileID: 2800000, guid: bc9b97d927ce0a54e8deab33b22c4015, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch01_1001_Specular
-    second: {fileID: 2800000, guid: 5d475a2c3bc2adb47886bd927244f137, type: 3}
+      name: Wolf3D_Avatar_NORMAL
+    second: {fileID: 2800000, guid: 31db5f8bf2e3a2041a291c7dfb9bd2ba, type: 3}
   materials:
     materialImportMode: 1
     materialName: 0
